@@ -1,4 +1,4 @@
-import { Component, useState } from "react";
+import { useState } from "react";
 import { Layout } from "./Layout.styled";
 import { Feedbacks } from "./feedbacksList/feedbacks";
 import { StatesticSection } from "./feedbacksStatistics/feedbacksStatistics.styled";
